@@ -33,6 +33,9 @@ body {
 	background-color: #e90e8d;
 	border-radius: 25px;
 	padding-bottom: 10px;
+	padding-right: 5px;
+	width: 100%;
+	display: block;
 }
 
 .week-section-title {
@@ -69,10 +72,10 @@ body {
 	padding: 10px;
 	color: white;
 	font-size: 23px;
-	width: 50%;
+	height: auto;
+	overflow: auto;
 }
 
-.week-1-a { height: 200px; }
 
 .week-1-a img {
 	height: 180px;
@@ -84,18 +87,9 @@ body {
 	margin-left: 10px;
 }
 
-.week-1-b { height: 250px; }
-
-.week-1-c { height: 175px; }
-
-.week-1-d { height: 125px; }
-
-.week-1-e { height: 185px; }
-
 .week-1-e img {
 	float: right;
 	width: 40px;
 	height: auto;
 }
-
 
